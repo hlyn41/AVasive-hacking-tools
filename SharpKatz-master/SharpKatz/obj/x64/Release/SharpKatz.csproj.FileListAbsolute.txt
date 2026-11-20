@@ -1,0 +1,7 @@
+C:\Users\kali\Downloads\Badstuff\SharpKatz-master\SharpKatz-master\SharpKatz\bin\x64\Release\SharpKatz.exe.config
+C:\Users\kali\Downloads\Badstuff\SharpKatz-master\SharpKatz-master\SharpKatz\bin\x64\Release\SharpKatz.exe
+C:\Users\kali\Downloads\Badstuff\SharpKatz-master\SharpKatz-master\SharpKatz\bin\x64\Release\SharpKatz.pdb
+C:\Users\kali\Downloads\Badstuff\SharpKatz-master\SharpKatz-master\SharpKatz\obj\x64\Release\SharpKatz.csproj.AssemblyReference.cache
+C:\Users\kali\Downloads\Badstuff\SharpKatz-master\SharpKatz-master\SharpKatz\obj\x64\Release\SharpKatz.csproj.CoreCompileInputs.cache
+C:\Users\kali\Downloads\Badstuff\SharpKatz-master\SharpKatz-master\SharpKatz\obj\x64\Release\SharpKatz.exe
+C:\Users\kali\Downloads\Badstuff\SharpKatz-master\SharpKatz-master\SharpKatz\obj\x64\Release\SharpKatz.pdb
